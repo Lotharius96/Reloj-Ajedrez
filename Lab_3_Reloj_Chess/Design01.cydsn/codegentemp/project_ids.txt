@@ -1,0 +1,6 @@
+C:\Users\santa\OneDrive\Documentos\PSoC Creator\Lab_3_Reloj_Chess\Design01.cydsn\Design01.cyprj|d20d8409-e78a-49ad-a875-497f630b0b01
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|196d6606-36a0-4460-9804-bb6763bbabb4
+C:\Users\santa\OneDrive\Documentos\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|45c96b3f-cf1b-446f-87ff-1711e47dd017
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|66480e93-33d8-4f31-b0e1-aedd46e06eab
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|230e58fd-1233-4568-b847-7bd6185a1af7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|315653b4-1afc-4d9b-b691-d7ddfcd986b1
